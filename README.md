@@ -16,15 +16,15 @@ I'm Tavian Bishop, a Computer Science student at Nicholls State University (Expe
 
 ## Features
 
-- 🎨 Modern, elegant design with custom typography (Crimson Pro & JetBrains Mono)
-- 📱 Fully responsive layout
-- ✨ Smooth animations and transitions
-- 📄 Resume upload functionality
-- 🚀 Dynamic project showcase
-- 📊 Skills visualization with progress bars
-- 📮 Contact form
-- ⚡ Fast and lightweight
-- 🎯 SEO-friendly structure
+-  Modern, elegant design with custom typography (Crimson Pro & JetBrains Mono)
+-  Fully responsive layout
+-  Smooth animations and transitions
+-  Resume upload functionality
+-  Dynamic project showcase
+-  Skills visualization with progress bars
+-  Contact form
+-  Fast and lightweight
+-  SEO-friendly structure
 
 ## Sections
 
